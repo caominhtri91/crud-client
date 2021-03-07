@@ -2,7 +2,12 @@
 
 React CRUD App Example
 
-## First Thing First
+## Run With docker-compose
+```
+docker-compose up --build
+```
+
+## Or Use Below Scripts
 ```
 yarn install
 ```
